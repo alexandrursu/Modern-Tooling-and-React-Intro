@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css?family=Alegreya+Sans:100,300,400,900&subset=cyrillic');
+
+body {
+    font-family: 'Alegreya Sans', sans-serif;
+    color: #FFB80C;
+    font-size: 30px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h1 {
+    font-size: 70px;
+    text-shadow: 3px 3px 0 rgba(0,0,0,0.3);
+    font-weight: 900;
+}
+
+li {
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 40px;
+    font-family: 'Alegreya Sans', sans-serif;
+    font-weight: 900;
+    text-shadow: 3px 2px 0 rgba(0, 0, 0, 0.6);
+}
+.deck-container {
+    /*background-image: -webkit-linear-gradient(90deg, #14e839 0%, #3456fd 100%);*/
+    background-image: linear-gradient(360deg, #FFB80C 0%, #59C7C1 100%);
+}
+
+.slide:nth-child(1):after {
+    content: '';
+    background-image: url(images/modernizr.custom.png);
+    background-size: cover;
+    filter: grayscale(100%) contrast(160%);
+    z-index: -2;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    display: block;
+    top: 0;
+    bottom: 0;
+    opacity: 0.2;
+}
