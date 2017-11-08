@@ -1,4 +1,4 @@
-##Modern Tooling and React Intro Slides
+# Modern Tooling and React Intro Slides
 
 Here you will find my thoughts on modern tooling and React.js, feel free to scroll them and to share to anybody.
 
