@@ -1,4 +1,4 @@
-#Modern Tooling and React Intro Slides
+##Modern Tooling and React Intro Slides
 
 Here you will find my thoughts on modern tooling and React.js, feel free to scroll them and to share to anybody.
 
@@ -18,7 +18,7 @@ Here you will find my thoughts on modern tooling and React.js, feel free to scro
      [Smashingmagazine] (https://www.smashingmagazine.com/2014/02/kickstart-your-project-with-init-and-grunt/)
      [Grunt] (https://gruntjs.com/getting-started)
 
-4. **Experiment with GIT*c
+4. **Experiment with GIT**
    - Getting started with Git (https://www.codeschool.com/learn/git)
 
 5. **Learn React**
