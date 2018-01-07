@@ -2,6 +2,9 @@
 
 Here you will find my thoughts on modern tooling and React.js, feel free to scroll them and to share to anybody.
 
+Link to the Slides:
+https://alexandrursu.github.io/Modern-Tooling-and-React-Intro/
+
 ## What I would recommend for anyone migrating from Joomla, Wordpress world to React.JS or other JS framework ecosystem
 
 1. **First and the most important thing, learn JavaScript, here are some nice courses:**
